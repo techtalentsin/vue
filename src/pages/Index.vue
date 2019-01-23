@@ -8,7 +8,7 @@
                 <div class="content-center brand">
                     <img class="n-logo" src="img/now-logo.png" alt="">
                     <h1 class="h1-seo">Now UI Kit.</h1>
-                    <h3>A beautiful Bootstrap 4 UI kit. Deployed by Tech Talents.</h3>
+                    <h3> Deployed by Tech Talents. A beautiful Bootstrap 4 UI kit.</h3>
                 </div>
                 <h6 class="category category-absolute">Designed by
                     <a href="http://invisionapp.com/" target="_blank">
